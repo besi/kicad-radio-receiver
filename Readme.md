@@ -1,6 +1,7 @@
 Radio Receiver Footprint
 ========================
 
+![](screenshot.png)
 
 ## Installation
 
@@ -20,3 +21,8 @@ Radio Receiver Footprint
 
         Nickname:       radio-receiver
         Library Path:   ${KIPRJMOD}/lib/radio-receiver/radio-receiver.pretty
+
+
+## Credits
+
+3D Model by [Alejandro Hurtado](https://grabcad.com/alejandro.hurtado-5)

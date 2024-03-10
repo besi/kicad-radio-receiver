@@ -34,4 +34,9 @@
   (pad "5" thru_hole oval (at 10.16 0 270) (size 3.2 2.5) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp 9b183753-928b-4e79-a5f0-422cc11f9e78))
   (pad "6" thru_hole oval (at 12.7 0 270) (size 3.2 2.5) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp 47147267-894d-4d6e-b47d-c5cf72599198))
   (pad "7" thru_hole oval (at 15.24 0 270) (size 3.2 2.5) (drill 0.762) (layers "*.Cu" "*.Mask") (tstamp 56203312-9e44-4915-a95b-6e20a2747e7c))
+  (model "${KIPRJMOD}/lib/radio-receiver/radio-receiver.step"
+    (offset (xyz 12.6 -4.25 6.1))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 180 0))
+  )
 )
